@@ -4,8 +4,8 @@ Hi, I’m Stephan – an evolutionary biologist and bioinformatics scientist bas
 
 - **Pet project:** [@stephkoest/witchi](https://github.com/stephkoest/witchi) – efficient detection and pruning of compositional bias in phylogenomic alignments.
 - **Last post:** Postdoc @ Wageningen University (NL), focusing on the evolution of cellular complexity and functional genomics.
-- **Background:** Biology by training, coder by necessity.
-- **Interests:** Structure-based protein discovery, functional genomics, and making sense of biological complexity with code and curiosity.
+- **Background:** Biologist by training, coder by necessity.
+- **Interests:** Structure-based protein discovery, the tree of life, functional genomics, and making sense of biological complexity with code and curiosity.
 - **Fun fact:** Either chasing hypertrophy or divine orbs in PoE2.
 - **Connect:**  
   [LinkedIn](https://www.linkedin.com/in/stephan-k%C3%B6stlbacher-770360241/) · [Bluesky](https://bsky.app/profile/stephkoe.bsky.social) · [GitHub](https://github.com/stephkoest)
