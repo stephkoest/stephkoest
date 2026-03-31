@@ -2,8 +2,9 @@
 
 Hi, I’m Stephan – an evolutionary biologist and bioinformatics scientist based in Vienna. I specialize in phylogenomics, comparative genomics, and AI-driven biology. My work bridges evolutionary insights and big data, from protein structures to genome evolution, mostly using Python, R, and modern workflow tools.
 
+- **Current:** Scientific Computing Specialist @ [AITHYRA](https://www.aithyra.at) (Austrian Academy of Sciences)
 - **Pet project:** [@stephkoest/witchi](https://github.com/stephkoest/witchi) – efficient detection and pruning of compositional bias in phylogenomic alignments.
-- **Last post:** Postdoc @ Wageningen University (NL), focusing on the evolution of cellular complexity and functional genomics.
+- **Past life:** Postdoc @ Wageningen University (NL), hunting eukaryotic ghosts in Asgard archaeal genomes. PhD @ University of Vienna, convincing people that Chlamydiae are not only interesting from a medical standpoint.
 - **Background:** Biologist by training, coder by necessity.
 - **Interests:** Structure-based protein discovery, the tree of life, functional genomics, and making sense of biological complexity with code and curiosity.
 - **Fun fact:** Either chasing hypertrophy or divine orbs in PoE2.
